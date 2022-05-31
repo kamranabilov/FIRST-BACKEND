@@ -1,0 +1,38 @@
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.exe
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.deps.json
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.runtimeconfig.json
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.runtimeconfig.dev.json
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.dll
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.pdb
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.csproj.AssemblyReference.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.AssemblyInfoInputs.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.AssemblyInfo.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.csproj.CoreCompileInputs.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.MvcApplicationPartsAssemblyInfo.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\staticwebassets\first backend.StaticWebAssets.Manifest.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\staticwebassets\first backend.StaticWebAssets.xml
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\first backend.styles.css
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.RazorTargetAssemblyInfo.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.dll
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.pdb
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.genruntimeconfig.cache
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.Views.dll
+E:\3.Asp.Net.Core\first backend\bin\Debug\netcoreapp3.1\first backend.Views.pdb
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.RazorAssemblyInfo.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.RazorAssemblyInfo.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.TagHelpers.input.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.TagHelpers.output.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.RazorCoreGenerate.cache
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.RazorTargetAssemblyInfo.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.Views.pdb
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\first backend.csproj.CopyComplete
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomePage.cshtml.g.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\faq.cshtml.g.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\Razor\Views\Product\detail.cshtml.g.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\Razor\Views\Share\_Layout.cshtml.g.cs
+E:\3.Asp.Net.Core\first backend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
